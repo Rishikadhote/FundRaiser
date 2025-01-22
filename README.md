@@ -1,6 +1,6 @@
 # FundRaiser Application
 
-A full-stack FundRaiser platform to create campaigns, accept donations, and track progress.
+A full-stack Fund Raising platform to create campaigns, accept donations, and track progress.
 
 ## Features
 - User Authentication
